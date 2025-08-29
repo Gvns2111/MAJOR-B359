@@ -89,16 +89,6 @@ models/inceptionv3_smoke/
 models/svr_aqi.joblib
 ```
 
-### Run App
-```bash
-flask run --host=0.0.0.0 --port=5000
-```
-
-### Access Dashboard
-Open: [http://localhost:5000](http://localhost:5000)
-
----
-
 ## 📊 Datasets
 - **Garbage Classification**: Kaggle Garbage Classification Dataset  
 - **Air Pollution**: Smoke intensity dataset (20–90%)  
